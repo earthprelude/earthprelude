@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @earthprelude.
 - 🌱 I’m currently learning web development.
-- 💞️ I’m looking to collaborate on open source projects, especially with Django or MERN stacks.
+- 💞️ I’m looking to collaborate on open source projects using Django or MERN stacks.
 <!--- 
 -👀 I’m interested in ...
 -📫 How to reach me ...
