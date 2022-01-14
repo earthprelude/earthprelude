@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @earthprelude.
-- 👀 I’m interested in constantly growing and learning new skills.
+- 👀 I’m interested in constantly growing and developing new skills.
 - 🌱 I’m currently learning React/Redux. 
 - 💞️ I’m looking to collaborate on open source projects using Django or MERN stacks.
 <!--- 
