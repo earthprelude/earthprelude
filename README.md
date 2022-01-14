@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @earthprelude.
-- 🌱 I’m currently learning web development.
+- 👀 I’m interested in web development, machine learning, and learning new things.
+- 🌱 I’m currently learning React/Redux. 
 - 💞️ I’m looking to collaborate on open source projects using Django or MERN stacks.
 <!--- 
--👀 I’m interested in ...
+
 -📫 How to reach me ...
 --->
 
